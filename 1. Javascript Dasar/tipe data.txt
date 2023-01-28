@@ -1,0 +1,6 @@
+tipe data js
+Number
+string 
+Boolean 
+Null
+Undefined
