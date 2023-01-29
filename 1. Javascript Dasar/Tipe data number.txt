@@ -3,3 +3,9 @@ bil positif
 negatif 
 seluruh angka (int)
 angka desimal
+
+operasi js
++
+-
+*
+/
