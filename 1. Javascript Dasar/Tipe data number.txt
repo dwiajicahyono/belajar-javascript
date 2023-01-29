@@ -9,3 +9,5 @@ operasi js
 -
 *
 /
+
+bisa gunakan tanda kurung pada operasi aritmatika tersebut
