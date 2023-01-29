@@ -5,3 +5,25 @@ Boolean
 Null
 Undefined
 
+number di js
+bil positif 
+negatif 
+seluruh angka (int)
+angka desimal
+
+operasi js
++
+-
+*
+/
+
+bisa gunakan tanda kurung pada operasi aritmatika tersebut
+
+komentar pada js 
+//
+
+perpangkatan
+
+2 ** 2
+4 ** 4
+
