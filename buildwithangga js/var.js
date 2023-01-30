@@ -13,5 +13,5 @@ const total = angka + umur;
 console.log(total)
 
 if (total <21) console.log(total);
-else console.log("umur lebih dari 24");
+else console.log(`umur lebih dari 24 yaitu ${total} tahun`);
 
