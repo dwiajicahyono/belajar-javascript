@@ -26,3 +26,6 @@ penggunaannya seperti css
 # untuk id 
 . untuk class
 tag untuk tag
+
+untuk memanggil semua
+querySelectorAll('')
