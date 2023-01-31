@@ -8,3 +8,7 @@ console.dir(document)
 
 mau text saja
 document.all[10].innerHTML
+
+mengubah text
+document.all[11].innerText = "Bird" (memanipulasi nilai)
+
