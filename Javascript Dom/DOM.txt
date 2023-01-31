@@ -5,3 +5,6 @@ melihat isi document
 pada console klik "document"
 
 console.dir(document)
+
+mau text saja
+document.all[10].innerHTML
