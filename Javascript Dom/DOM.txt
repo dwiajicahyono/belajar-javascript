@@ -22,6 +22,8 @@ getElementByClassName
 --QUERYSELECTOR--
 element yang memudahkan kita untuk mencari elemen sesuai dengan tag yang di berinama
 querySelector('')
+mendapatkan satu saja
+
 penggunaannya seperti css 
 # untuk id 
 . untuk class
@@ -29,3 +31,5 @@ tag untuk tag
 
 untuk memanggil semua
 querySelectorAll('')
+
+--Memahami Innerthtml, Innertext Dan Textcontent--
