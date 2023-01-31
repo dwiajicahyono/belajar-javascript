@@ -12,3 +12,8 @@ document.all[10].innerHTML
 mengubah text
 document.all[11].innerText = "Bird" (memanipulasi nilai)
 
+//SELECTOR
+
+getElementById
+getElementByTagName
+getElementByClassName
