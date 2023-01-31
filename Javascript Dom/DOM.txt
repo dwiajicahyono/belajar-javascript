@@ -1,0 +1,2 @@
+represaentasi struktur dokumen htlm atau xml dalam bentuk tree oleh javascript
+dom memungkinkan kita untuk mengubah struktur isi atau still dokumrn melalui kode javascript
