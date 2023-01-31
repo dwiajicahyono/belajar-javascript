@@ -17,3 +17,12 @@ document.all[11].innerText = "Bird" (memanipulasi nilai)
 getElementById
 getElementByTagName
 getElementByClassName
+
+
+--QUERYSELECTOR--
+element yang memudahkan kita untuk mencari elemen sesuai dengan tag yang di berinama
+querySelector('')
+penggunaannya seperti css 
+# untuk id 
+. untuk class
+tag untuk tag
